@@ -1,0 +1,5 @@
+uploads/book_covers/*
+!uploads/book_covers/.gitkeep
+.DS_Store
+Thumbs.db
+.vscode/
